@@ -104,6 +104,10 @@ Handled missing values and duplicates (some managers names were duplicated with 
 
 ---
 ## Dashboard
+<img width="869" height="484" alt="front page" src="https://github.com/user-attachments/assets/54330dab-3063-4dc4-8405-fe623d3cfe97" />
+<img width="1055" height="499" alt="dash" src="https://github.com/user-attachments/assets/48d61001-6a30-4678-8318-3942f20bfc84" />
+
+
 
 
 > Created in Power BI, featuring:
@@ -133,7 +137,7 @@ This Resturant sales Performance business demonstrates strong revenue performanc
 * Certain cities and products dominate revenue contribution
 
 
-> ##Recommendation
+> ## Recommendation
 
 * Expand marketing in low-performing cities
 * Promote underperforming products
