@@ -65,4 +65,81 @@ Resturant.csv
 
 * Which city had maximum revenue
 
+---
+## Tools Used
+
+- *Microsoft Excel* – For further cleaning, Data Collection
+- *Power BI* – For Data Visualizations & Reporting 
+- *GitHub* – For documentation and version control
+
+## Data Cleaning Process
+ 
+> Overview
+
+This document outlines the data cleaning process applied to the Resturant Sales performance to ensure data quality and consistency for analysis.
+
+> Dataset Information
+
+Original File: Resturant.csv
+Rows: 254 records
+Columns: 10 informations
+
+> Data Cleaning Steps
+
+1. Initial Assessment
+   
+Checked dataset structure and dimensions
+Identified data types for each column
+Located missing values and inconsistencies
+
+3. Missing Values Handling
+   
+No significant missing values found in this dataset
+Strategy: If missing values were present, would use appropriate imputation or removal based on column importance
+
+4. Duplicate Records
+   
+Checked for duplicate  entries
+Handled missing values and duplicates (some managers names were duplicated with space so i was able to fix and correct the spaces found in this column)
+
+---
+## Dashboard
+
+
+> Created in Power BI, featuring:
+
+- KPI cards (total orders, total revenue, average revenue)
+- Revenue by city
+- Revenue by Product
+- order by manager
+- Revenue by date
+
+
+
+---
+## Conclusion
+
+> Overview
+
+This Resturant sales Performance business demonstrates strong revenue performance but has opportunities to improve geographic expansion, product balac, and sales consistency.
+
+> Key Findings
+
+* High revenue despite moderate order volume
+* Revenue is concentrated in specific cities
+* Sales performance varies among managers
+* Revenue tends show fluctutations across different period.
+* Digital payment methods dominate customer preference.
+* Certain cities and products dominate revenue contribution
+
+
+> ##Recommendation
+
+* Expand marketing in low-performing cities
+* Promote underperforming products
+* stregthen digital payment infrastructure
+* Provide training for weaker managers
+* Cross-selling of product under-performing
+
+
 
