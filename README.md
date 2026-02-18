@@ -25,44 +25,44 @@ Resturant.csv
 
 > Columns
 
-Order ID: A unique identifier for each sales order. This can be used to track individual transactions.
+* Order ID: A unique identifier for each sales order. This can be used to track individual transactions.
 
-Order Date: The date when the order was placed. This column is essential for time-series analysis, such as identifying sales trends over time or seasonality.
+* Order Date: The date when the order was placed. This column is essential for time-series analysis, such as identifying sales trends over time or seasonality.
 
-Product: The name or type of the product sold. This column is crucial for analyzing sales performance by product category.
+* Product: The name or type of the product sold. This column is crucial for analyzing sales performance by product category.
 
-Price : The unit price of the product. This, along with 'Quantity Ordered', is used to calculate the total price of each order.
+* Price : The unit price of the product. This, along with 'Quantity Ordered', is used to calculate the total price of each order.
 
-Quantity : The number of units of the product sold in a single order. This is a key metric for calculating revenue and understanding sales volume.
+* Quantity : The number of units of the product sold in a single order. This is a key metric for calculating revenue and understanding sales volume.
 
-Purchase Type : The order was made online or in-store or drive-thru.
+* Purchase Type : The order was made online or in-store or drive-thru.
 
-Payment Method : How the payment for the order was done.
+* Payment Method : How the payment for the order was done.
 
-Manager : Name of the manager of the store.
+* Manager : Name of the manager of the store.
 
-City : The location of the store. This can be used for geographical analysis of sales, such as identifying top-performing regions or optimizing logistics.
+* City : The location of the store. This can be used for geographical analysis of sales, such as identifying top-performing regions or optimizing logistics.
 
 > Potential Use Cases:
 
-Total order and total revenue made
+* Total order and total revenue made
 
-Most Preferred Payment Method
+* Most Preferred Payment Method
 
-Most Selling Product - By Quantity & By Revenue
+* Most Selling Product - By Quantity & By Revenue
 
-Which city had highest revenue
+* Which city had highest revenue
 
-which manager performed the best(highest sales)
+* which manager performed the best(highest sales)
 
-Average Revenue.
+* Average Revenue.
 
-Is revenue increasing or decreasing over time
+* Is revenue increasing or decreasing over time
 
-Average Quantity Sold(done)
+* Average Quantity Sold(done)
 
-Highest purchasing type by orders
+* Highest purchasing type by orders
 
-Which city had maximum revenue
+* Which city had maximum revenue
 
 
