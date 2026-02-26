@@ -1,5 +1,5 @@
 # Sales Perfromance Analysis
-This project explore sales data to understand business performance, identify key drivers of revenue, and provide actionable recommendations. This project demonstrates end-to-end data analysis workflow from data cleaning to insight generation.
+This project explore Restaurant sales data to understand business performance, identify key drivers of revenue, and provide actionable recommendations. This project demonstrates end-to-end data analysis workflow from data cleaning to insight generation.
 
 ---
 
